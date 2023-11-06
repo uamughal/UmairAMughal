@@ -10,6 +10,9 @@ redirect_from:
 
 My research focuses on AI-assisted Cybersecurity solutions for autonomous vehicles. I conduct ethical hacking experiments on real-world UAV systems to analyze vulnerabilities. I execute Denial of Service (DoS), Replay, Evil Twin, Stealthy False data injection attacks, etc. I build systems that learn patterns from and collect data about the network, operator, and attacker behaviors. Using machine learning, I analyze the data my system collects to uncover critical operational threats and risks. My goal is to design an intelligent intrusion detection system that can automatically detect and respond to sophisticated attacks.
 
+Tello Drone Flying
+![Umair Tello Pics](/images/Tello.png)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
