@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-urlcolor: blue
+urlcolor: red
 author_profile: true
 ---
 
